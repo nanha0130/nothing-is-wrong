@@ -1,0 +1,13 @@
+Surface textures from ambientCG, licensed under CC0 1.0 Universal.
+https://docs.ambientcg.com/license/
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Wallpaper001A https://ambientcg.com/view?id=Wallpaper001A
+Wallpaper001B https://ambientcg.com/view?id=Wallpaper001B
+Carpet016 https://ambientcg.com/view?id=Carpet016
+Plaster001 https://ambientcg.com/view?id=Plaster001
+Wood094 https://ambientcg.com/view?id=Wood094
+Fabric028 https://ambientcg.com/view?id=Fabric028
+
+Color, OpenGL normal and roughness maps resized/recompressed to 1024 pixels
+for browser delivery. Original source archives are kept in work/materials.

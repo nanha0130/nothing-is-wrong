@@ -1,0 +1,9 @@
+Generated for this game with PINOC on 2026-09-09. Private assets, downloaded for local runtime.
+maintenance.vsplat — f7e8afb7-0eb1-4495-a826-3ac949e821d2 — 6 credits
+customer.vsplat — 79ba7157-e10e-4982-926a-288b93211a1b — 6 credits
+../motions/vending_use.glb — 787fe06b-e411-450e-9772-8e36cd64478f — 8 credits / 8 seconds, sample 1 of 4
+../motions/maintenance_pause.glb — 1e249604-1806-40b0-8911-bb484c2f5560 — 6 credits / 6 seconds, sample 1 of 4
+../motions/sofa_rise.glb — 5478edb9-b339-4ec8-945d-52f4250ad515 — 6 credits / 6 seconds, sample 1 of 4
+../motions/stop_watch.glb — 5b43bd05-bcf2-405e-b243-7f56195080a4 — 5 credits / 5 seconds, sample 1 of 4
+../motions/carry_object_idle.glb — cf700861-cede-4621-a85b-219a34d4efce — free library motion
+Refine not used. Total generation spend: 37 credits.
